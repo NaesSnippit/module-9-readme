@@ -11,7 +11,7 @@ const questions = [
         type: 'input',
         message: "What is your GitHub username? (No @ needed)",
         name: 'username',
-        default: 'danielthomas129',
+        default: 'naessnippit',
         validate: function (answer) {
             if (answer.length < 1) {
                 return console.log("A valid GitHub username is required.");
@@ -21,9 +21,9 @@ const questions = [
     },
     {
         type: 'input',
-        message: "What is the name of your GitHub repo?",
+        message: "Great! What is the name of your GitHub repo?",
         name: 'repo',
-        default: 'readme-generator',
+        default: 'module-9-readme',
         validate: function (answer) {
             if (answer.length < 1) {
                 return console.log("A valid GitHub repo is required for a badge.");
