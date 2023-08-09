@@ -8,17 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EmilyNecciai/readme-generator.git"
+    "url": "git+https://github.com/NaesSnippit/module-9-readme"
   },
   "keywords": [
     "readme"
   ],
-  "author": "Emily Mayeski",
-  "license": "ISC",
+  "author": "Monet 'Nae' Montgomery",
   "bugs": {
-    "url": "https://github.com/EmilyNecciai/readme-generator/issues"
+    "url": "https://github.com/NaesSnippit/module-9-readme/issues"
   },
-  "homepage": "https://github.com/EmilyNecciai/readme-generator#readme",
+  "homepage": "https://github.com/NaesSnippit/module-9-readme#readme",
   "dependencies": {
     "inquirer": "^8.1.2"
   }
