@@ -1,24 +1,16 @@
+
 {
-  "name": "readme-generator",
+  "name": "readme",
   "version": "1.0.0",
-  "description": "Generates a readme file",
+  "description": "[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/NaesSnippit/module-9-readme"
-  },
-  "keywords": [
-    "readme"
-  ],
-  "author": "Monet 'Nae' Montgomery",
-  "bugs": {
-    "url": "https://github.com/NaesSnippit/module-9-readme/issues"
-  },
-  "homepage": "https://github.com/NaesSnippit/module-9-readme#readme",
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "inquirer": "^8.1.2"
-  }
+    "inquirer": "^8.2.4"
+  },
+  "keywords": []
 }
